@@ -9,4 +9,4 @@ This is an simple tutorial for developing a machine learning model for the predi
 * Python 3
 
 
-https://github.com/Gangl2016/Machine_Learning_On_OGT/edit/master/README.md
+https://github.com/Gangl2016/Machine_Learning_On_OGT/tree/master/scripts/Tutorial.ipynb
