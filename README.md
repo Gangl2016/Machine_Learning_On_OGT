@@ -9,7 +9,7 @@ This is an simple tutorial for developing a machine learning model for the predi
 * Python 3
 
 Jupyter notebook:   
-https://github.com/Gangl2016/Machine_Learning_On_OGT/tree/master/scripts/Tutorial.ipynb)
+https://github.com/Gangl2016/Machine_Learning_On_OGT/tree/master/scripts/Tutorial.ipynb
 
 
 HTML version: (open with chrome) 
