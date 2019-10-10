@@ -1,4 +1,4 @@
-# Machine_Learning_On_OGT
+# A tutorial for the development of regression models in machine learning
 
 
 ## Objectives
